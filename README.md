@@ -4,6 +4,8 @@ FFTrice is a utility which generates an Final Fantasy TCG XML file for use with 
 
 This repository contains xml for Opus 23.
 
+This project was started by tawa, but when it was executed it didn't work so I decided to modify it and make it so that instead of connecting it from the web page, I pass it a json
+
 ## Features
 - All rarity tags are removed from card codes.  This allows easier importing of decks from FFDecks.
 
